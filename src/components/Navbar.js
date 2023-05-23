@@ -46,12 +46,7 @@ export default class Example extends React.Component {
                 <NavLink href="/components/">Components</NavLink>
               </NavItem> */}
               <NavItem>
-                {/* <NavLink
-                  href="https://github.com/kaanbayram/react_kafka_chat_app/tree/master"
-                  style={{ color: "#fff" }}
-                >
-                  React-Kafka GitHub
-                </NavLink> */}
+               
               </NavItem>
               <UncontrolledDropdown nav inNavbar>
                 {/* <DropdownToggle nav caret>
